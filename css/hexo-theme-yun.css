@@ -1806,7 +1806,7 @@ body::before {
   max-height: 10000px;
 }
 :root {
-  --sidebar-bg-image: url("https://cdn.yunyoujun.cn/img/bg/alpha-stars-timing-1.webp");
+  --sidebar-bg-image: url("");
 }
 #menu-btn {
   display: none;
