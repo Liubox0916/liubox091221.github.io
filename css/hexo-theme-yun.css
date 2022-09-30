@@ -124,7 +124,7 @@ html.dark {
   --hty-secondary-text-color: #555;
   --post-block-bg-color: #fff;
   --smc-link-color: #c9c3ef;
-  --yun-bg-image: url("https://cdn.yunyoujun.cn/img/bg/stars-timing-0-blur-30px.jpg");
+  --yun-bg-image: url("/liubox091221.github.io/light_bg.png");
   --banner-line-color: #000;
   --banner-char-color: #000;
 }
@@ -135,7 +135,7 @@ html.dark {
   --hty-secondary-text-color: #eee;
   --post-block-bg-color: #1b1f2e;
   --smc-link-color: #d9d5f4;
-  --yun-bg-image: url("https://cdn.yunyoujun.cn/img/bg/galaxy.jpg");
+  --yun-bg-image: url("/liubox091221.github.io/dark_bg.png");
   --banner-line-color: #fff;
   --banner-char-color: #fff;
   --banner-char-bg-color: rgba(0,0,0,0.5);
@@ -295,6 +295,7 @@ body::before {
   animation-name: bgFadeIn;
   animation-duration: 2s;
   opacity: 1;
+  filter: blur(30px);
 }
 @-moz-keyframes bgFadeIn {
   from {
