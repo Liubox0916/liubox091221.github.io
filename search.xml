@@ -31,49 +31,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/liubox091221.github.io//2022/hello-world/</url>
-    <content><![CDATA[Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
-]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-  </entry>
-  <entry>
     <title>古建筑照片</title>
     <url>/liubox091221.github.io//2022/gu-jian-zhu-zhao-pian/</url>
     <content><![CDATA[> 本文长期更新，**不定期收集**各种古建筑照片
@@ -115,6 +72,49 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
       <tags>
         <tag>古建筑</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/liubox091221.github.io//2022/hello-world/</url>
+    <content><![CDATA[Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+
+## Quick Start
+
+### Create a new post
+
+``` bash
+$ hexo new "My New Post"
+```
+
+More info: [Writing](https://hexo.io/docs/writing.html)
+
+### Run server
+
+``` bash
+$ hexo server
+```
+
+More info: [Server](https://hexo.io/docs/server.html)
+
+### Generate static files
+
+``` bash
+$ hexo generate
+```
+
+More info: [Generating](https://hexo.io/docs/generating.html)
+
+### Deploy to remote sites
+
+``` bash
+$ hexo deploy
+```
+
+More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
   </entry>
   <entry>
     <title>最令人难忘的一件事（还是瞎写的）</title>
@@ -275,6 +275,21 @@ int main(){
     <content><![CDATA[]]></content>
   </entry>
   <entry>
+    <title>关于本站</title>
+    <url>/liubox091221.github.io/about/site.html</url>
+    <content><![CDATA[> > 欢迎来到我的小站呀，很高兴遇见你！🤝
+
+## 🏠 关于本站
+
+本站是一个xxs~~不要再问我为什么要打xxs了，只是打习惯了啊啊啊~~一时兴起建的一个博客，因之前的网站**没钱关闭**，所以选择用`Github Pages`再建一个，但是`Gridea`的体验真的一言难尽，所以迁移到更加好用的`Hexo`框架。目前这个网站有很多不足，正在**逐步改进**。]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/liubox091221.github.io/categories/index.html</url>
+    <content><![CDATA[
+]]></content>
+  </entry>
+  <entry>
     <title>关于我</title>
     <url>/liubox091221.github.io/about/index.html</url>
     <content><![CDATA[
@@ -294,28 +309,13 @@ int main(){
 ]]></content>
   </entry>
   <entry>
-    <title>关于本站</title>
-    <url>/liubox091221.github.io/about/site.html</url>
-    <content><![CDATA[> > 欢迎来到我的小站呀，很高兴遇见你！🤝
-
-## 🏠 关于本站
-
-本站是一个xxs~~不要再问我为什么要打xxs了，只是打习惯了啊啊啊~~一时兴起建的一个博客，因之前的网站**没钱关闭**，所以选择用`Github Pages`再建一个，但是`Gridea`的体验真的一言难尽，所以迁移到更加好用的`Hexo`框架。目前这个网站有很多不足，正在**逐步改进**。]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/liubox091221.github.io/categories/index.html</url>
-    <content><![CDATA[
-]]></content>
+    <title>我的小伙伴们</title>
+    <url>/liubox091221.github.io/links/index.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title></title>
     <url>/liubox091221.github.io/tags/index.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>我的小伙伴们</title>
-    <url>/liubox091221.github.io/links/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>
